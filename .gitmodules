@@ -1,0 +1,3 @@
+[submodule "submodule-test-module"]
+	path = submodule-test-module
+	url = ..\\submodule-test-module\\
